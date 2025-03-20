@@ -36,7 +36,7 @@
 &nbsp;
 
 # 🎥 게임영상
-[![클릭시유튜브]](https://www.youtube.com/watch?v=phCrzrgv9ww)
+[![게임 영상](https://img.youtube.com/vi/phCrzrgv9ww/0.jpg)](https://www.youtube.com/watch?v=phCrzrgv9ww)
 
 &nbsp;
 ***
